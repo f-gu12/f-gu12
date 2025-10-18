@@ -14,7 +14,7 @@ Passionate about **full-stack development**, **mobile development**, and **machi
 ---
 
 ### 🧩 Featured Projects
-- 🏧 [**ATM Security Protocol**] (https://github.com/f-gu12/SecureATMProject — Secure client-server ATM simulation with AES-256 encryption) (C, Docker)
+- 🏧 [**ATM Security Protocol**] (https://github.com/f-gu12/SecureATMProject) — Secure client-server ATM simulation with AES-256 encryption) (C, Docker)
 - 🍳 [**Recipe App**](https://github.com/f-gu12/Android-Studio-Recipe-App) — Android app for creating and sharing recipes (Kotlin, Firebase)
 - 🌐 *More projects coming soon...*
 
